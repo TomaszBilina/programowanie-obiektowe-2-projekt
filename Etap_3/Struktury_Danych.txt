@@ -1,1 +1,16 @@
+Dane trwałe:
+- Statystyki gracza: 
+  - win rate
+  - ilość zniszczonych skrzynek
+  - ilosc rozegranych gier
+- Ranking graczy
+- Ustawienia gracza
 
+Dane ulotone:
+- Plansza gry
+- Pozycja gracza
+- Pozycje bomb
+- Pozycja skrzynek
+- Efekt wybuchu bomb
+- Efekty dźwiękowe
+- Ulepszenia
